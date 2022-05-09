@@ -1,5 +1,5 @@
 # LiveseyLang
-Implemenation of translator of Dr. Dr. Livesey languge (from russian and to russian).
+Implemenation of very simple translator of Dr. Dr. Livesey languge (from russian and to russian).
 This language based on Huffman coding with alphabet - {'А', 'Х'}
 
 
